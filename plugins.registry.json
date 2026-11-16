@@ -15,6 +15,13 @@
       "menuCategory": "Streaming"
     },
     {
+      "id": "forca",
+      "dir": "plugins/forca",
+      "build": "ant",
+      "jar": "dist/pitiupi.forca.jar",
+      "menuCategory": "Social"
+    },
+    {
       "id": "ping",
       "dir": "plugins/ping",
       "build": "ant",
